@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\backend\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\empleadocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\backend\\services\\implementations\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|solutionrelative:backend\\services\\implementations\\empleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\backend\\dto\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\empleadodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\backend\\services\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|solutionrelative:backend\\services\\interfaces\\iempleadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85F3086-6C4B-454A-839D-020D7296BC08}|Entities\\Entities.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\entities\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C85F3086-6C4B-454A-839D-020D7296BC08}|Entities\\Entities.csproj|solutionrelative:entities\\entities\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\dal\\implementations\\unidaddetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|solutionrelative:dal\\implementations\\unidaddetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CB56EB0-F381-43D1-A02C-BDB5347EFB8E}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\dal\\implementations\\empleadodalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|solutionrelative:dal\\implementations\\empleadodalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\dal\\implementations\\genericdalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|solutionrelative:dal\\implementations\\genericdalimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\dal\\interfaces\\iunidaddetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iunidaddetrabajo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\dal\\interfaces\\iempleadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\iempleadodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\dal\\interfaces\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E5FCA71-93BC-4E37-992A-46FEC6F66784}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\igenericdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Entities\\Entities\\QuizContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Entities\\QuizContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C85F3086-6C4B-454A-839D-020D7296BC08}|Entities\\Entities.csproj|c:\\users\\usuario\\documents\\#2 moviles\\prueba\\entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C85F3086-6C4B-454A-839D-020D7296BC08}|Entities\\Entities.csproj|solutionrelative:entities\\entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T01:38:03.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UnidadDeTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Implementations\\UnidadDeTrabajo.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\UnidadDeTrabajo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Implementations\\UnidadDeTrabajo.cs",
+              "RelativeToolTip": "DAL\\Implementations\\UnidadDeTrabajo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAkwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:53:05.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmpleadoController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Controllers\\EmpleadoController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\EmpleadoController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Controllers\\EmpleadoController.cs*",
+              "RelativeToolTip": "Backend\\Controllers\\EmpleadoController.cs*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwBgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:07:23.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpleadoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\DTO\\EmpleadoDTO.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\EmpleadoDTO.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\DTO\\EmpleadoDTO.cs",
+              "RelativeToolTip": "Backend\\DTO\\EmpleadoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:05:19.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUnidadDeTrabajo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Interfaces\\IUnidadDeTrabajo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IUnidadDeTrabajo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Interfaces\\IUnidadDeTrabajo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IUnidadDeTrabajo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:59:25.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Entities\\Entities\\Empleado.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\Empleado.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Entities\\Entities\\Empleado.cs",
+              "RelativeToolTip": "Entities\\Entities\\Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:54:28.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Services\\Interfaces\\IEmpleadoService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Interfaces\\IEmpleadoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Services\\Interfaces\\IEmpleadoService.cs",
+              "RelativeToolTip": "Backend\\Services\\Interfaces\\IEmpleadoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:08:41.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpleadoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Services\\Implementations\\EmpleadoService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Implementations\\EmpleadoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Services\\Implementations\\EmpleadoService.cs",
+              "RelativeToolTip": "Backend\\Services\\Implementations\\EmpleadoService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:08:30.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACIAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:27:24.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericDALImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Implementations\\GenericDALImpl.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\GenericDALImpl.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Implementations\\GenericDALImpl.cs",
+              "RelativeToolTip": "DAL\\Implementations\\GenericDALImpl.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T00:03:39.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Interfaces\\IGenericDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IGenericDAL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Interfaces\\IGenericDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IGenericDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:59:23.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmpleadoDALImpl.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Implementations\\EmpleadoDALImpl.cs",
+              "RelativeDocumentMoniker": "DAL\\Implementations\\EmpleadoDALImpl.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Implementations\\EmpleadoDALImpl.cs",
+              "RelativeToolTip": "DAL\\Implementations\\EmpleadoDALImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:56:52.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmpleadoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Interfaces\\IEmpleadoDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IEmpleadoDAL.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\DAL\\Interfaces\\IEmpleadoDAL.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IEmpleadoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:55:28.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "QuizContext.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Entities\\Entities\\QuizContext.cs",
+              "RelativeDocumentMoniker": "Entities\\Entities\\QuizContext.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Entities\\Entities\\QuizContext.cs",
+              "RelativeToolTip": "Entities\\Entities\\QuizContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T23:52:03.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Entities",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Entities\\Entities.csproj",
+              "RelativeDocumentMoniker": "Entities\\Entities.csproj",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\#2 MOVILES\\Prueba\\Entities\\Entities.csproj",
+              "RelativeToolTip": "Entities\\Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T23:41:44.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
